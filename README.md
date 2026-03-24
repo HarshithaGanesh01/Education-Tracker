@@ -1,6 +1,9 @@
-# University Management System (ERP) with Bank Integration
+# Education Tracker
 
-A comprehensive Django-based University Management System designed to handle all aspects of university operations including student management, academic records, faculty administration, research tracking, library management, financial operations, and **automated bank payment integration**.
+Education Tracker is a comprehensive academic management system designed to streamline and digitize institutional processes. It provides an integrated platform for students, staff, and administrators to manage academic activities, communication, and resources efficiently.
+The system includes key features such as academic year and semester management, assignment posting, submission, and grading, event notifications and registration, and exam schedule management with deferment requests. It also supports administration of departments, courses, HODs, and staff details, ensuring structured and organized data handling.
+Additionally, the platform offers fee management, allowing students to view department-based fee structures while enabling administrators to update records. The integrated library module helps users check book availability, access digital resources, and receive fine notifications for overdue or lost books. Timetable allocation is also supported for effective scheduling.
+Overall, the Education Tracker enhances transparency, organization, and productivity by combining multiple academic and administrative functionalities into a single user-friendly system.
 
 ## 🎯 Key Highlights
 
